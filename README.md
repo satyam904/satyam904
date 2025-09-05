@@ -9,9 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm a passionate **Full-Stack Developer** 💻 who loves crafting **user-friendly** and **scalable** applications.  
-✨ With a strong focus on problem-solving and clean design, I enjoy turning **ideas into reality** through  
-efficient code, modern tools, and innovative solutions 🚀.
+I'm a passionate **Full-Stack Developer** 💻 who loves crafting **user-friendly** and **scalable** applications. With a strong focus on problem-solving and clean design, I enjoy turning **ideas into reality** through efficient code, modern tools, and innovative solutions 🚀.
 
 ---
 
